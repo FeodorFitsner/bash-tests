@@ -1,1 +1,3 @@
-echo "Hi!"
+function hello() {
+  echo "hello!"
+}
